@@ -36,4 +36,4 @@ If you'd like I can also:
 - Convert the project to TypeScript
 - Add a CONTRIBUTING.md and CODE_OF_CONDUCT
 
-Tell me which follow-ups you want and I'll add them.
+Tell me which follow-ups you want and I'll add them..
