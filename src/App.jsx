@@ -35,6 +35,9 @@ let subtract = () =>{
         <div style={{display: "flex", justifyContent: "center", alignItems: "center", backgroundColor: "lightgray", paddingInline: "20px", borderRadius: "10px"}}>
         <button onClick={ () => setcolor("red") } style={{backgroundColor:"red", color:"white", margin:"10px"}}>Red</button>
     <button onClick={ () => setcolor("yellow")} style={{backgroundColor:"yellow", color:"white", margin:"10px"}}>yellow</button>
+    <button onClick={ () => setcolor("green")} style={{backgroundColor:"green", color:"white", margin:"10px"}}>green</button>
+    <button onClick={ () => setcolor("blue")} style={{backgroundColor:"blue", color:"white", margin:"10px"}}>blue</button>
+    
     </div>
     </div>
     </div>
